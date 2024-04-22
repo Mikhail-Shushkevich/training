@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* обнуляем отступы */
+.box {
+    background-image: url(../img/1660114244_1-kartinkin-net-p-astrologiya-oboi-krasivo-1.jpg); 
+     /*.. ставяться для того, чтобы выйти из папки css и зайти в img  */
+    /* height: 100vh; без этой функции картинка спрятана */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
